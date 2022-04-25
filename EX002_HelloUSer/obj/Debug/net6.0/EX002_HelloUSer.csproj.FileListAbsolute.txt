@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\obj\Debug\net6.0\EX002_HelloUSer.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\obj\Debug\net6.0\EX002_HelloUSer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\obj\Debug\net6.0\EX002_HelloUSer.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\obj\Debug\net6.0\EX002_HelloUSer.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\obj\Debug\net6.0\EX002_HelloUSer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\bin\Debug\net6.0\EX002_HelloUSer.exe
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\bin\Debug\net6.0\EX002_HelloUSer.deps.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\bin\Debug\net6.0\EX002_HelloUSer.runtimeconfig.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\bin\Debug\net6.0\EX002_HelloUSer.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\bin\Debug\net6.0\EX002_HelloUSer.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\obj\Debug\net6.0\EX002_HelloUSer.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\obj\Debug\net6.0\refint\EX002_HelloUSer.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\obj\Debug\net6.0\EX002_HelloUSer.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\obj\Debug\net6.0\EX002_HelloUSer.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX002_HelloUSer\obj\Debug\net6.0\ref\EX002_HelloUSer.dll
