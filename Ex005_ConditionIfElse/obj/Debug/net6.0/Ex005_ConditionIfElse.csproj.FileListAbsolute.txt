@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\bin\Debug\net6.0\Ex005_ConditionIfElse.exe
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\bin\Debug\net6.0\Ex005_ConditionIfElse.deps.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\bin\Debug\net6.0\Ex005_ConditionIfElse.runtimeconfig.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\bin\Debug\net6.0\Ex005_ConditionIfElse.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\bin\Debug\net6.0\Ex005_ConditionIfElse.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\obj\Debug\net6.0\refint\Ex005_ConditionIfElse.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\obj\Debug\net6.0\Ex005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex005_ConditionIfElse\obj\Debug\net6.0\ref\Ex005_ConditionIfElse.dll

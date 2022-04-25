@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\bin\Debug\net6.0\EX003_Summ.exe
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\bin\Debug\net6.0\EX003_Summ.deps.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\bin\Debug\net6.0\EX003_Summ.runtimeconfig.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\bin\Debug\net6.0\EX003_Summ.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\bin\Debug\net6.0\EX003_Summ.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\obj\Debug\net6.0\EX003_Summ.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\obj\Debug\net6.0\EX003_Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\obj\Debug\net6.0\EX003_Summ.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\obj\Debug\net6.0\EX003_Summ.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\obj\Debug\net6.0\EX003_Summ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\obj\Debug\net6.0\EX003_Summ.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\obj\Debug\net6.0\refint\EX003_Summ.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\obj\Debug\net6.0\EX003_Summ.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\obj\Debug\net6.0\EX003_Summ.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\EX003_Summ\obj\Debug\net6.0\ref\EX003_Summ.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\obj\Debug\net6.0\Ex004_diff.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\obj\Debug\net6.0\Ex004_diff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\obj\Debug\net6.0\Ex004_diff.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\obj\Debug\net6.0\Ex004_diff.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\obj\Debug\net6.0\Ex004_diff.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\bin\Debug\net6.0\Ex004_diff.exe
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\bin\Debug\net6.0\Ex004_diff.deps.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\bin\Debug\net6.0\Ex004_diff.runtimeconfig.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\bin\Debug\net6.0\Ex004_diff.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\bin\Debug\net6.0\Ex004_diff.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\obj\Debug\net6.0\Ex004_diff.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\obj\Debug\net6.0\refint\Ex004_diff.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\obj\Debug\net6.0\Ex004_diff.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\obj\Debug\net6.0\Ex004_diff.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\Ex004_diff\obj\Debug\net6.0\ref\Ex004_diff.dll

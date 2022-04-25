@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// integer - целое число
+// double - вещественные числа
+double numberA = 12;
+double numberB = 5;
+Console.WriteLine(numberA / numberB);
