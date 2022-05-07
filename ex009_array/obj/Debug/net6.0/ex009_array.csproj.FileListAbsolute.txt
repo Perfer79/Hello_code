@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\bin\Debug\net6.0\ex009_array.exe
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\bin\Debug\net6.0\ex009_array.deps.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\bin\Debug\net6.0\ex009_array.runtimeconfig.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\bin\Debug\net6.0\ex009_array.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\bin\Debug\net6.0\ex009_array.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\obj\Debug\net6.0\ex009_array.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\obj\Debug\net6.0\ex009_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\obj\Debug\net6.0\ex009_array.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\obj\Debug\net6.0\ex009_array.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\obj\Debug\net6.0\ex009_array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\obj\Debug\net6.0\ex009_array.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\obj\Debug\net6.0\refint\ex009_array.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\obj\Debug\net6.0\ex009_array.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\obj\Debug\net6.0\ex009_array.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Examples\ex009_array\obj\Debug\net6.0\ref\ex009_array.dll
