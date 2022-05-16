@@ -4,10 +4,10 @@
 3. else Увеличить index на 1
 4. Если index < n, то перейти к шагу 2. В противном случае алгоритм завершил работу безуспешно
 */
-int[] array = {1,12,31,4,15,16,17,18};
+int[] array = {1, 12, 31, 4, 15, 18, 16, 17, 18};
 
 int n = array.Length;
-int find = 4; 
+int find = 18; 
 
 int index = 0;
 
@@ -16,6 +16,8 @@ while (index < n)
     if(array[index] == find)
     {
         Console.WriteLine(index);
+        break;
     }
-    index = index++;
+    //index = index + 1;
+    index++;
 }

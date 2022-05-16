@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\EX003_Summ\\EX003_Summ.csproj",
-      "projectName": "EX003_Summ",
-      "projectPath": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\EX003_Summ\\EX003_Summ.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\EX011_ArrayLibrary\\EX011_ArrayLibrary.csproj",
+      "projectName": "EX011_ArrayLibrary",
+      "projectPath": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\EX011_ArrayLibrary\\EX011_ArrayLibrary.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\EX003_Summ\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Dropbox\\Документы\\разработка\\C#\\Examples\\EX011_ArrayLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
